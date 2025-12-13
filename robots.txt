@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tadigitalworks.com.br/sitemap.xml
